@@ -1,4 +1,7 @@
 /* Home Page*/
+.col-12{
+    margin-top: 20px;
+}
 body{
     font-family: 'Lato', sans-serif;
   }
@@ -95,4 +98,13 @@ body{
     }
     .nav-item{
       margin-left: 20px;
+    }
+    .container-fluid .pasta{
+        margin-top: 10px;
+    }
+    .newDish{
+        width: 100%;
+    }
+    .hr{
+        width:50%;
     }
